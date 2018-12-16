@@ -39,6 +39,15 @@
     "code": 18,
     "version": "1.2.18"
   },
+    {
+    "name": "Mangarex: Plugin Indo",
+    "pkg": "com.argenta.manga.source.online.serverx",
+    "apk": "mangarex-all.mmrcms-v1.2.12.apk",
+    "lang": "all",
+    "code": 12,
+    "version": "1.2.12"
+  },
+  
   {
     "name": "Tachiyomi: nhentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
