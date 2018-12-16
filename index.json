@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tachiyomi: My Manga Reader CMS (Many Source)",
+    "name": "Mangarex: Indonesia",
     "pkg": "eu.kanade.tachiyomi.extension.all.mmrcms",
     "apk": "tachiyomi-all.mmrcms-v1.2.12.apk",
     "lang": "all",
@@ -8,7 +8,7 @@
     "version": "1.2.12"
   },
   {
-    "name": "Tachiyomi: Kissmanga",
+    "name": "Mangarex: Kissmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.kissmanga",
     "apk": "tachiyomi-en.kissmanga-v1.2.9.apk",
     "lang": "en",
@@ -16,7 +16,7 @@
     "version": "1.2.9"
   },
   {
-    "name": "Tachiyomi: Mangafox",
+    "name": "Mangarex: Mangafox",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafox",
     "apk": "tachiyomi-en.mangafox-v1.2.3.apk",
     "lang": "en",
@@ -24,7 +24,7 @@
     "version": "1.2.3"
   },
   {
-    "name": "Tachiyomi: Mangafree",
+    "name": "Mangarex: Mangafree",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafree",
     "apk": "tachiyomi-en.mangafree-v1.2.2.apk",
     "lang": "en",
@@ -32,7 +32,7 @@
     "version": "1.2.2"
   },
   {
-    "name": "Tachiyomi: Mangahere",
+    "name": "Mangarex: Mangahere",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahere",
     "apk": "tachiyomi-en.mangahere-v1.2.6.apk",
     "lang": "en",
@@ -40,7 +40,7 @@
     "version": "1.2.6"
   },
   {
-    "name": "Tachiyomi: Mangasee",
+    "name": "Mangarex: Mangasee",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasee",
     "apk": "tachiyomi-en.mangasee-v1.2.4.apk",
     "lang": "en",
