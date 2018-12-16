@@ -1,5 +1,4 @@
 [
-
   {
     "name": "Tachiyomi: My Manga Reader CMS (Many Source)",
     "pkg": "eu.kanade.tachiyomi.extension.all.mmrcms",
@@ -48,5 +47,4 @@
     "code": 4,
     "version": "1.2.4"
   },
-
 ]
